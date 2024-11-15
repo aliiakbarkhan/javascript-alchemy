@@ -1,2 +1,2 @@
-# javascript-alchemy
- Exploring the power of JavaScript through practical projects, clean code snippets, and innovative solutions to everyday challenges.
+# All Rights Reserved.
+This repository and its contents are copyrighted. No part of this repository may be reproduced, distributed, or used without explicit permission from the owner.
